@@ -1,0 +1,3 @@
+git+https://github.com/greydanus/excitationbp.git#egg=excitationbp
+git+https://github.com/osu-xai/sc2env
+git+https://github.com/osu-xai/pytorch-saliency
